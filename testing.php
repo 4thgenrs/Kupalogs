@@ -6,7 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    Inamo Aeryhiel
     John Lexter Armenta
     Ricardo Salvador
     Aeryhiel John Mojica
