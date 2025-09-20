@@ -6,10 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    John Lexter Armenta
-    Ricardo Salvador
-    Aeryhiel John Mojica
-    putangina mo
-    sige na nga
+    ito na yung pangalawang file
 </body>
 </html>
